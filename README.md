@@ -20,7 +20,7 @@ Em relação ao projeto base do curso, foram adicionadas e modificadas as seguin
   Alteração na lógica original (que suportava múltiplos pássaros) para manter apenas um, aproximando-se mais da proposta do jogo original.
 
 
-## 📚 Aprendizados
+## Aprendizados
 Durante o desenvolvimento, foi possível reforçar e adquirir conhecimentos sobre:
 - Estruturação de código usando classes e métodos.
 - Sistema de coordenadas do Pygame.
